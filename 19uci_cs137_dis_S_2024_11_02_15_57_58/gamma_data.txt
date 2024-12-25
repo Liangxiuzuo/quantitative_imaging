@@ -1,0 +1,1 @@
+{"cps":435.0,"dose":203.0,"doseRate":407.96695,"doseRateFinal":1.1180419,"maxdose":0.1334602,"peakpos":[42,42],"scanTime":360,"snr":10.594993,"totalcounts":130776}
