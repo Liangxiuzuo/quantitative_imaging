@@ -1,0 +1,6 @@
+
+Wed Dec 25 16:23:15 CST 2024
+how to get the authorize:
+ git remote add origin https://github.com/yourusername/yourrepository.git
+git add .
+git push -u origin main
