@@ -1,0 +1,6 @@
+
+Wed Dec 25 16:23:15 CST 2024
+how to get the authorize:
+ git remote set-url  origin  https://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@github.com/Liangxiuzuo/quantitative_imaging.git
+git add .
+git push -u origin main
